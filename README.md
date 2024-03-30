@@ -1,6 +1,9 @@
 ## João Marcos Moura
-• Tec. Info² IFPI - campus Picos 
+
+• Tec. Info² IFPI - campus Picos
+
 • às vezes desenho algumas coisas
+
 🌻.
 
 <div style="display: inline_block"><br/>
