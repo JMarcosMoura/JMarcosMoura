@@ -1,4 +1,4 @@
-###João Marcos Moura
+## João Marcos Moura
 • Tec. Info² IFPI - campus Picos 
 • às vezes desenho algumas coisas
 🌻.
@@ -11,6 +11,6 @@
 
 ![Moura GitHub stats](https://github-readme-stats.vercel.app/api?username=JMarcosMoura&show_icons=true&theme=radical)
 
-###contact
+### contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.moura_leal?igsh=MTE3dHZ3NXViMHk2)
