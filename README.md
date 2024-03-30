@@ -1,8 +1,8 @@
 ## João Marcos Moura
 
-• Tec. Info² IFPI - campus Picos
+• Tec. Info⅔ IFPI - campus Picos
 
-• às vezes desenho algumas coisas
+• às vezes desenho algumas coisas! se quiser,confira alguns: https://www.instagram.com/all.marcoz_art?igsh=MXhyeGYxODhia3dycw==
 
 🌻.
 
