@@ -2,7 +2,7 @@
 
 • Tec. Info⅔ IFPI - campus Picos
 
-• às vezes desenho algumas coisas! se quiser,confira alguns aqui:
+• Às vezes desenho algumas coisas. Se quiser, confira alguns desenhos meus aqui:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/all.marcoz_art?igsh=MXhyeGYxODhia3dycw==)
  
