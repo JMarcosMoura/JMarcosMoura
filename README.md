@@ -1,19 +1,26 @@
-• Tec. Info⅔ IFPI - campus Picos
+<div align="center">
+  🍓
+</div>
+<div align="center">
+ °\_________/°
+</div>
 
-• YNWA
+###
+
+- Tec. Info⅔ IFPI - Campus Picos  
+- YNWA
 
 ##
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framework7/framework7-original-wordmark.svg" />
+<div style="display: inline_block;">
+  <img align="center" alt="HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Framework7" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framework7/framework7-original-wordmark.svg" />
 </div>
 
 ##
 
-### contact:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.moura_leal?igsh=MTE3dHZ3NXViMHk2)
+**🔗 Conecte-se comigo:**  
+- [Instagram](https://www.instagram.com/all.marcoz_art?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
