@@ -7,7 +7,7 @@
 
 ###
 
-- Tec. Info⅔ IFPI - Campus Picos  
+-Tec. Info⅔ IFPI - Campus Picos  
 
 ##
 
