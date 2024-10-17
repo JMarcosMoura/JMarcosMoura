@@ -2,7 +2,7 @@
   🍓
 </div>
 <div align="center">
-  <p>°\_________/°</p>
+  <p>°\_______/°</p>
 </div>
 
 ###
@@ -26,5 +26,6 @@
 **🔗 Conecte-se comigo:**  
 - [Instagram](https://www.instagram.com/all.marcoz_art?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-**📂 Projeto em destaque:**
+**📂 Projetos em destaque:**
 - [RedatorPro](https://github.com/JMarcosMoura/RedatorPro_Mobile.git)
+- [SuperMario](https://github.com/JMarcosMoura/Jogo-Super-Mario)
