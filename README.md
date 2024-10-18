@@ -28,4 +28,4 @@
 
 **📂 Projetos em destaque:**
 - [RedatorPro](https://github.com/JMarcosMoura/RedatorPro_Mobile.git)
-- [SuperMario](https://github.com/JMarcosMoura/Jogo-Super-Mario)
+- [JogoSimples](https://github.com/JMarcosMoura/Jogo-Simples)
