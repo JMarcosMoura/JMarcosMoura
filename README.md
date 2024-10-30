@@ -3,29 +3,37 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Olá+🌸!;+Bem-vindo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&color=FFC222&lines=Olá!;+Bem-vindo!;" />
 </h1>
 
+<p align="center">Tec. Info⅔ - IFPI</p>
+<p align="center">Romanos 10:9</p>
 
-•Tec. Info⅔ IFPI - Campus Picos  
+<hr/>
 
-##
+<h3 align="center">Languages and Tools</h3>
 
-**🌎 Linguagens:**
-
-<div style="display: inline_block;">
-  <img align="center" alt="HTML5" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Python" height="65" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Framework7" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framework7/framework7-original-wordmark.svg" />
+<div align="center">
+  
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,androidstudio,gradle,vscode,github&theme=light&perline=4)](https://skillicons.dev)
+ 
 </div>
 
 ##
+  
+**📂 Projetos em destaque:**
+- [RedatorPro](https://github.com/JMarcosMoura/RedatorPro_Mobile.git)
+- [JogoSimples](https://github.com/JMarcosMoura/Jogo-Simples)
 
 **🔗 Conecte-se comigo:**  
 - [Instagram](https://www.instagram.com/all.marcoz_art?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
-**📂 Projetos em destaque:**
-- [RedatorPro](https://github.com/JMarcosMoura/RedatorPro_Mobile.git)
-- [JogoSimples](https://github.com/JMarcosMoura/Jogo-Simples)
+<hr/>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=30&duration=4000&color=FFC222&lines=Obrigado+pela+visita!;+You'll+Never+Walk+Alone" />
+</div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFC222&section=footer"/>
+</p>
