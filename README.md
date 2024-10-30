@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">Tec. Info⅔ - IFPI</p>
-<p align="center">João M. Moura</p>
+<p align="center">João M. M. Leal</p>
 
 <hr/>
 
