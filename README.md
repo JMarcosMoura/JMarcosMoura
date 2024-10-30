@@ -1,4 +1,5 @@
-<div align="center"> 
+<div align="center">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="621"><a href="https://www.reddit.com/r/celestegame/comments/oeorcc/ive_been_trying_to_get_into_pixel_art_and/">I’ve been trying to get into pixel art and animation so I decided to animate a strawberry</a><br> by<a href="https://www.reddit.com/user/kitten1323/">u/kitten1323</a> in<a href="https://www.reddit.com/r/celestegame/">celestegame</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 </div>
 
 <h1 align="center">
