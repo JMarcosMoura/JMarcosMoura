@@ -1,4 +1,4 @@
-<div align="center"> https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcelestegame%2Fcomments%2Fq0joj6%2Fmade_an_animated_celeste_background_and_animated%2F&psig=AOvVaw1r7Dw0DrOAzfaZO1sZoCrm&ust=1730338259502000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiMy9S7-rSJAxXhNLkGHe_WIOMQjRx6BAgAEBg
+<div align="center"> 
 </div>
 
 <h1 align="center">
