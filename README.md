@@ -5,7 +5,12 @@
   <p>°\_______/°</p>
 </div>
 
-###
+##
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Olá+🌸!;+Bem-vindo!;" />
+</h1>
+
 
 •Tec. Info⅔ IFPI - Campus Picos  
 
@@ -20,12 +25,6 @@
   <img align="center" alt="Python" height="65" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Framework7" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framework7/framework7-original-wordmark.svg" />
 </div>
-
-##
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Hi+There!+♥️;+I'm+Maxym!;" />
-</h1>
 
 ##
 
