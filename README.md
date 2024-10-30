@@ -7,7 +7,6 @@
 </h1>
 
 <p align="center">Tec. Info⅔ - IFPI</p>
-<p align="center">Romanos 10:9</p>
 
 <hr/>
 
