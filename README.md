@@ -1,5 +1,6 @@
-<div align="center">
-</div>
+<p align="center">
+  <img src="gif/morango-celeste.gif" alt="Morango gif">
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Olá+🌸!;+Bem-vindo!;" />
