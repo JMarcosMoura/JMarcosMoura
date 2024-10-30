@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif/morango.gif" alt="Morango gif">
+  <img src="gif/morango-celeste.gif" alt="Morango gif">
 </p>
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">Tec. Info⅔ - IFPI</p>
-<p align="center">João M. M. Leal</p>
+<h4 align="center">João M. M. Leal</h4>
 
 <hr/>
 
