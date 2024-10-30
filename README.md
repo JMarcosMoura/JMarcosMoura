@@ -1,11 +1,6 @@
 <div align="center">
-  🍓
+  https://images.app.goo.gl/1gda3ym8GKQcjSyx7
 </div>
-<div align="center">
-  <p>°\_______/°</p>
-</div>
-
-##
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&color=7731F7&lines=Olá+🌸!;+Bem-vindo!;" />
