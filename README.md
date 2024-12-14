@@ -15,7 +15,7 @@
 
 <div align="center">
   
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,androidstudio,gradle,vscode,github&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,postman,prisma,nodejs,express,py,androidstudio,vscode,github,gradle&perline=4)](https://skillicons.dev)
  
 </div>
 
