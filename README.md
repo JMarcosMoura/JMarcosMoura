@@ -1,4 +1,4 @@
-<p align="center">Tec. Info⅔ - IFPI</p>
+<p align="center">Tec. Info³ - IFPI</p>
 <h4 align="center">João M. M. Leal</h4>
 
 <hr/>
